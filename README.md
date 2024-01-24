@@ -1,1 +1,1 @@
-# charector-counter-
+# Character Counter
